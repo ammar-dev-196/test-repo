@@ -1,1 +1,2 @@
 This is first comment for one.txt file
+This another text
